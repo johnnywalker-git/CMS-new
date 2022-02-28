@@ -1,5 +1,5 @@
 ---
-title: This is my first post (I've changed it using the Netlify CMS tools.
+title: This is my first post (I've changed it using the Netlify CMS tools)
 description: Capitalize on low hanging fruit to identify a ballpark value added
   activity to beta test. Override the digital divide with additional
   clickthroughs from DevOps.
